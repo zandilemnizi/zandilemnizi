@@ -8,7 +8,7 @@ I'm a dedicated Data Engineering Intern with a passion for working with data and
 
 * 🌍  I'm based in Pretoria
 * ✉️  You can contact me at [zandile99022@gmail.com](mailto:zandile99022@gmail.com)
-* 🧠  I'm learning Currently learning data engineering using Python andSQL
+* 🧠  I'm Currently learning data engineering using Python and SQL
 
 ### Skills
 
